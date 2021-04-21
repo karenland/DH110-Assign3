@@ -1,6 +1,6 @@
 # DH110-Assign3
 
- ##Step 1: Specify the main design challenge
+ #Step 1: Specify the main design challenge
  
 **What is the main activity your project would support the users’ needs?**
 For this project, I want to create a platform for a more inclusive community for book readers. For everyone and anyone, they should be able to easily and freely write and share reviews, recommend books to others, join book groups related to their interests, and also be able to simply shop around for new reads.
@@ -14,9 +14,9 @@ Current solutions for this are joining the book community on twitter “#booktwt
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
 A big general limitation right now is that one has to be extremely involved in the app in order to build any sort of connection (weak or strong). With a better interface, one can simply share simple updates about their current/future reads without having to dive into discussions (which most of the book groups are solely about).  Sometimes it is ehchasting to always have to enter long-winded discussions about ready to meet new people, sometimes one simply wants to say “look at this pretty book cover!” and that's it.
 
-##Step 2:Target users 
+#Step 2:Target users 
 
-What are the characteristics of users?
+**What are the characteristics of users?**
 For the solutions I mentioned above:
 -Demographics: students (high school, college undergraduates), working adults, book bloggers and I have seen a lot of mothers
 -Preferences: users who read lessiuly, users who want to learn more public opinions on reads they are interested in, users who want to keep track of books they have read or want to read
@@ -30,20 +30,23 @@ The Goodreads app has many features but the two I will be focusing on (in a sens
 
 
 
-##Step3: Pick research methods (or a combination of methods): Participatory ##
+#Step3: Pick research methods (or a combination of methods): Participatory Oberservation
 I worked from the fact that we were doing a phone call so I decided that a simple task would be best:search for a book and narrate their thoughts. At least with my past experience with the elderly (especially with my grandparents), they always talk. And many imes, they deviate from the initial/principal point of discussion so I thought a simple task would be the perfect setup to see if something as mundane as searching for a book would distract the user.
 
 I did have plans for a second test to meet the minimum time requirement as suggested by the guide we were provided but the participant did not have time. I wanted them to write out either a comment or a review about a book they like. I wanted them to write out all the details of the book that websites would normally have so publication year, author’s anime, title, page number, where to buy it, and the date the user read it. Then I would ask them, how do you feel right now? What will you do with your comment? I will possibly do this task outside of the assignment timeline just to study their reactions during this activity.
-##Step4: Plan to get into the context & write down the observation/ interview guide ##
+
+
+#Step4: Plan to get into the context & write down the observation/ interview guide
 <a href="https://docs.google.com/document/d/1C0uhwXnP_R0c4T5_NyPqOa2dh4OUb1Ecd3u6KO-vdtk/edit?usp=sharing">Observation/Interview Guide!</a>
-##Step 5: Conduct the research##
+
+#Step 5: Conduct the research
 
 Link to screen recording 
 
 Link to transcript
 <a href="https://docs.google.com/document/d/1rXT6Ri0BZ4eCk3HCNXOijnKE1TGJLWeVPMyVkIclifU/edit?usp=sharing">Observation/Link to transcript</a>
 
-##Step 6:Reflection##
+#Step 6:Reflection##
 I felt my questions were too probing. Because I kept asking them how they search for books and their only solution to my question was to either look through the books we have or go to the library. In the moment, I should have clarified and told them “Can you use any online resources you are comfortable with to search for a book. “ I just thought being a bit vague in a sense would give them a sense of freedom to do the search.
 
 
