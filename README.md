@@ -1,12 +1,16 @@
 # DH110-Assign3
 
- ##Step 1: Specify the main design challenge##
+ ##Step 1: Specify the main design challenge
+ 
 **What is the main activity your project would support the users’ needs?**
 For this project, I want to create a platform for a more inclusive community for book readers. For everyone and anyone, they should be able to easily and freely write and share reviews, recommend books to others, join book groups related to their interests, and also be able to simply shop around for new reads.
+
 **What is the basic need involved for that activity? (reference)**
 This activity fulfills ser’s basic need for ‘delight’ because they feel a sense of accomplishment and a sense of community. However for an activity like this, the product designs should keep in mind that it is a platform for the people/community so its success should never be a true linear process but one that is monitored over dimensions.
+
 **What is(are) the traditional/current solution(s) to satisfy the needs?**
 Current solutions for this are joining the book community on twitter “#booktwt” but it is difficult to build a community with the app because most of the users are very young (13-19 years old and it is simply difficult to gain followers in general on Twitter. The other solution is the app I have been studying for this class, Goodreads. Same issue as above but actually with Goodreads it is more difficult to create a community since the only way to meet/talk to others on the platform is by joining book groups and commenting on reviews. All in all, while both are popular platforms, they are not aimed at the demographic I will be focusing on. 
+
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
 A big general limitation right now is that one has to be extremely involved in the app in order to build any sort of connection (weak or strong). With a better interface, one can simply share simple updates about their current/future reads without having to dive into discussions (which most of the book groups are solely about).  Sometimes it is ehchasting to always have to enter long-winded discussions about ready to meet new people, sometimes one simply wants to say “look at this pretty book cover!” and that's it.
 
@@ -14,9 +18,11 @@ A big general limitation right now is that one has to be extremely involved in t
 What are the characteristics of users?
 For the solutions I mentioned above:
 Demographics: students (high school, college undergraduates), working adults, book bloggers and I have seen a lot of mothers
-Preferences: users who read lessiuly, users who want to learn more public opinions on reads they are interested in, users who want to keep track of books they have read or want to re
+Preferences: users who read lessiuly, users who want to learn more public opinions on reads they are interested in, users who want to keep track of books they have read or want to read
 Expertise: to use the app, a general knowledge of social media apps would be useful since not all functions are fully obvious but in the grand scheme of things, no level of expertise is needed. It is more so that the company assumes the user will have experience with social media applications because of its targeted demographics
 For my activity - the user is 48 years old and a relative of mine. She has no knowledge of the solutions I previously mentioned but she does like to read. We did our study though the phone, and she screen recorded on her ipad.
+
+
 **Where would the users do that activity?/What would the users do to complete that activity?**
 The Goodreads app has many features but the two I will be focusing on (in a sense) will be looking for books, reading reviews, and sharing conversations with others about books. Typically on the Goodreads app, the search is simple but limited: users can only search for books using its title of the authors name but not its genre nor can they search using character names. For reading reviews, the app does not let you organize by the most recent/oldest reviews which I find peculiar since sometimes public opinion changes. Like the book came out in 2015 and by 2016 it only had 30 reviews, all of which are a bit negative. But then in 2018, news came out that it will be a Netflix short series so now by 2019 there are 3300+ reviews all skewing towards a positive opinion because people are excited for a new show to watch. And on the Goodreads app, sharing conversations is difficult since there is no area on the app to freely discuss with others except for book groups available the app which are both difficult to find and are mostly for lengthy discussions. To do any of these tasks that I mentioned, users have to go through different websites to do each one such as Barnes and Noble and Bookwalker to find books, to read reviews they would have to search for the titles one by one on newspaper websites. Then to share book related conversations, they would simply be limited to people they know and then further limited to the people they know that read books. The user will focus on these two activities but without me telling them the existence of the app (which they do not know about). I am doing this to see just how “needed” a book community app is. Since with the pilot testing I saw some difficulties the app has, I know what limitations an user may have within the Goodreads app and also through the multiple platforms they use to perform the tasks I mentioned since I msylf am an user of the other platforms.
 
