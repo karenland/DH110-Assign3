@@ -14,12 +14,13 @@ Current solutions for this are joining the book community on twitter “#booktwt
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
 A big general limitation right now is that one has to be extremely involved in the app in order to build any sort of connection (weak or strong). With a better interface, one can simply share simple updates about their current/future reads without having to dive into discussions (which most of the book groups are solely about).  Sometimes it is ehchasting to always have to enter long-winded discussions about ready to meet new people, sometimes one simply wants to say “look at this pretty book cover!” and that's it.
 
-##Step 2:Target users ##
+##Step 2:Target users 
+
 What are the characteristics of users?
 For the solutions I mentioned above:
-Demographics: students (high school, college undergraduates), working adults, book bloggers and I have seen a lot of mothers
-Preferences: users who read lessiuly, users who want to learn more public opinions on reads they are interested in, users who want to keep track of books they have read or want to read
-Expertise: to use the app, a general knowledge of social media apps would be useful since not all functions are fully obvious but in the grand scheme of things, no level of expertise is needed. It is more so that the company assumes the user will have experience with social media applications because of its targeted demographics
+-Demographics: students (high school, college undergraduates), working adults, book bloggers and I have seen a lot of mothers
+-Preferences: users who read lessiuly, users who want to learn more public opinions on reads they are interested in, users who want to keep track of books they have read or want to read
+-Expertise: to use the app, a general knowledge of social media apps would be useful since not all functions are fully obvious but in the grand scheme of things, no level of expertise is needed. It is more so that the company assumes the user will have experience with social media applications because of its targeted demographics
 For my activity - the user is 48 years old and a relative of mine. She has no knowledge of the solutions I previously mentioned but she does like to read. We did our study though the phone, and she screen recorded on her ipad.
 
 
