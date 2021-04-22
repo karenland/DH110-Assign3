@@ -46,8 +46,27 @@ I did have plans for a second test to meet the minimum time requirement as sugge
 Link to transcript
 <a href="https://docs.google.com/document/d/1rXT6Ri0BZ4eCk3HCNXOijnKE1TGJLWeVPMyVkIclifU/edit?usp=sharing">Observation/Link to transcript</a>
 
+<h2> Interesting Points </h2>
+
+**You want to share a book you found with your friend, but she does not read many books. What do you do?**
+ <p>I find another friend that likes to read and share it with her. ----> shows that while the question placed a soft 'limit' of who the participant can interact with, particpant does not limit herself and decided to go with another friend. Illustrates that she knows her commnity well which this knowledge would hekp with ux design because we can keep in mind that the potential users know that there is always more people who I can share this with (aka a community I can share this with). </p>
+
+**Interviewer: Throughout the study, you talked alot about alone… you look for books.. The activities you do. You never want to invite analysis. In those moments, you never wish to spend them with others?**
+<p>Participant: no i like to do it alone ----> </p> I find it interesting that this participant likes to search for books on her own since as she also said, for the book collection she found so beautiful, she shared them with others. Now that experience did lead to a negative outcome (her books were not returned). SO I am wondering if that played a role or if she does prefer the solitude when looking for books.
+
+
+
+
 <h2>Step 6:Reflection</h2>
-I felt my questions were too probing. Because I kept asking them how they search for books and their only solution to my question was to either look through the books we have or go to the library. In the moment, I should have clarified and told them “Can you use any online resources you are comfortable with to search for a book. “ I just thought being a bit vague in a sense would give them a sense of freedom to do the search.
+
+I thnk the basic rundown of my assignment was okay. I could have improved by I think asking a bit more backgorund questions or questions in genral to get her persoanlity down so that I can better inferences about her responses. Because while I know the participant well ,I could not use information outside of the study to aid me since in the environment of the study, I acted as a researcher and she was my participant.
+
+I found it interesting that the user felt restricted in her choices during the initial task of searching for a book. I did leave it open ended so that she had the freedom to choose but they kept going back to the same solution (that was not related to my focus).
+
+So because of that I felt my questions were too probing. Because I kept asking them how they search for books and their only solution to my question was to either look through the books we have or go to the library. At the moment, I should have clarified and told them “Can you use any online resources you are comfortable with to search for a book. “ I just thought being a bit vague in a sense would give them a sense of freedom to do the search. I did use someone from my same household since we are strict about leaving the house due to a sibling of mine being susceptible to illness very easily and frequently. 
+
+I did feel like I was a bit strict with my mom since I knew that if I asked too many followup questions, the conversations would go on for a long time. I did wish we had more time to do the other task because it would have been interesting to hear thoughts about it.
+
 
 
 
